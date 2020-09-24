@@ -1,1 +1,5 @@
-
+my_h <- 1.79
+my_w <- 53
+first_name <- "梁育銓"
+BMI = my_w/(my_h*my_h)
+paste0("我是",first_name,"我的身高",my_h,"公尺，我的體重",my_w,"公斤，我的BMI",BMI)
